@@ -1,2 +1,4 @@
 .DS_Store
+solutions/stickynoteapi/gRPC/Objective-C/stickynotes.xcworkspace/xcuserdata/*
+protobuf/*
 solutions/stickynoteapi/gRPC/Go/*
